@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\bin\Debug\net6.0\Example010Method.exe
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\bin\Debug\net6.0\Example010Method.deps.json
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\bin\Debug\net6.0\Example010Method.runtimeconfig.json
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\bin\Debug\net6.0\Example010Method.dll
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\bin\Debug\net6.0\Example010Method.pdb
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.dll
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\refint\Example010Method.dll
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.pdb
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\Example010Method.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\git\Examples\Example010Method\obj\Debug\net6.0\ref\Example010Method.dll
